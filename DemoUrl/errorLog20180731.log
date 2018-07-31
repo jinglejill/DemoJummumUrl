@@ -1,0 +1,27 @@
+2018-07-31T19:02:20+07:00 
+fail with exception: jinglejill@hotmail.com,86cda2480d9647f2b51571c91869169cf8a3d5ab8660a975ef75b00a467064f8
+*** -[__NSArrayM insertObject:atIndex:]: object cannot be nil
+0   CoreFoundation                      0x0000000180fb317c <redacted>   148
+1   libobjc.A.dylib                     0x00000001801fc528 objc_exception_throw   56
+2   CoreFoundation                      0x0000000180f4bc9c _CFArgv   0
+3   CoreFoundation                      0x0000000180e7eeec <redacted>   1420
+4   DemoJummum                          0x0000000105023298 -[HomeModel URLSession:dataTask:didReceiveData:]   4108
+5   CFNetwork                           0x00000001816ef970 <redacted>   36
+6   Foundation                          0x0000000181989ba0 <redacted>   16
+7   Foundation                          0x00000001818c9894 <redacted>   72
+8   Foundation                          0x00000001818b94c4 <redacted>   848
+9   libdispatch.dylib                   0x0000000180932a14 <redacted>   16
+10  libdispatch.dylib                   0x000000018093a200 <redacted>   288
+11  libdispatch.dylib                   0x0000000180932a14 <redacted>   16
+12  libdispatch.dylib                   0x000000018093a200 <redacted>   288
+13  libdispatch.dylib                   0x000000018093a0ac <redacted>   104
+14  Foundation                          0x000000018198b878 <redacted>   376
+15  libdispatch.dylib                   0x0000000180932a14 <redacted>   16
+16  libdispatch.dylib                   0x000000018093f698 <redacted>   1016
+17  CoreFoundation                      0x0000000180f5b344 <redacted>   12
+18  CoreFoundation                      0x0000000180f58f20 <redacted>   2012
+19  CoreFoundation                      0x0000000180e78c58 CFRunLoopRunSpecific   436
+20  GraphicsServices                    0x0000000182d24f84 GSEventRunModal   100
+21  UIKit                               0x000000018a5d15c4 UIApplicationMain   236
+22  DemoJummum                          0x0000000105090a24 main   124
+23  libdyld.dylib                       0x000000018099856c <redacted>   4
