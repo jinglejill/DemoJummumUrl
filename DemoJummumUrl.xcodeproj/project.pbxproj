@@ -17,6 +17,71 @@
 		EF9C52B521111ABC00C7563A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EF9C52B421111ABC00C7563A /* main.m */; };
 		EF9C52BF21111ABC00C7563A /* DemoJummumUrlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF9C52BE21111ABC00C7563A /* DemoJummumUrlTests.m */; };
 		EF9C52CA21111ABC00C7563A /* DemoJummumUrlUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF9C52C921111ABC00C7563A /* DemoJummumUrlUITests.m */; };
+		EF9C531821111AD900C7563A /* JMMUserAccountUpdate.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52D821111AD800C7563A /* JMMUserAccountUpdate.php */; };
+		EF9C531921111AD900C7563A /* JMMReceiptDisputeRatingAllAfterReceiptGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52D921111AD800C7563A /* JMMReceiptDisputeRatingAllAfterReceiptGet.php */; };
+		EF9C531A21111AD900C7563A /* JMMWriteLog.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DA21111AD800C7563A /* JMMWriteLog.php */; };
+		EF9C531B21111AD900C7563A /* JMMRewardPointSpentExpiredGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DB21111AD800C7563A /* JMMRewardPointSpentExpiredGetList.php */; };
+		EF9C531C21111AD900C7563A /* JMMMenuNoteGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DC21111AD800C7563A /* JMMMenuNoteGetList.php */; };
+		EF9C531D21111AD900C7563A /* JMMReceiptGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DD21111AD800C7563A /* JMMReceiptGet.php */; };
+		EF9C531E21111AD900C7563A /* JMMUserAccountInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DE21111AD800C7563A /* JMMUserAccountInsert.php */; };
+		EF9C531F21111AD900C7563A /* JMMHotDealWithBranchIDGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52DF21111AD800C7563A /* JMMHotDealWithBranchIDGetList.php */; };
+		EF9C532021111AD900C7563A /* JMMBranchGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E021111AD800C7563A /* JMMBranchGetList.php */; };
+		EF9C532121111AD900C7563A /* errorLog20180731.log in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E121111AD800C7563A /* errorLog20180731.log */; };
+		EF9C532221111AD900C7563A /* JMMOpeningTimeGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E221111AD800C7563A /* JMMOpeningTimeGet.php */; };
+		EF9C532321111AD900C7563A /* JMMReceiptSummaryGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E321111AD800C7563A /* JMMReceiptSummaryGetList.php */; };
+		EF9C532421111AD900C7563A /* JMMRewardPointSpentGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E421111AD800C7563A /* JMMRewardPointSpentGetList.php */; };
+		EF9C532521111AD900C7563A /* JMMRewardPointInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E521111AD800C7563A /* JMMRewardPointInsert.php */; };
+		EF9C532621111AD900C7563A /* JMMPushReminder.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E621111AD800C7563A /* JMMPushReminder.php */; };
+		EF9C532721111AD900C7563A /* JMMLogInUserAccountInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E721111AD800C7563A /* JMMLogInUserAccountInsert.php */; };
+		EF9C532821111AD900C7563A /* ck.pem in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E821111AD800C7563A /* ck.pem */; };
+		EF9C532921111AD900C7563A /* JMMRewardPointSpentExpiredMoreGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52E921111AD800C7563A /* JMMRewardPointSpentExpiredMoreGetList.php */; };
+		EF9C532A21111AD900C7563A /* urlinsertlistprefix.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52EA21111AD800C7563A /* urlinsertlistprefix.php */; };
+		EF9C532B21111AD900C7563A /* transactionLog20180730.log in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52EB21111AD800C7563A /* transactionLog20180730.log */; };
+		EF9C532C21111AD900C7563A /* JMMRewardPointSpentUsedGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52EC21111AD800C7563A /* JMMRewardPointSpentUsedGetList.php */; };
+		EF9C532D21111AD900C7563A /* JMMPushSyncSync.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52ED21111AD800C7563A /* JMMPushSyncSync.php */; };
+		EF9C532E21111AD900C7563A /* JMMHotDealGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52EE21111AD800C7563A /* JMMHotDealGetList.php */; };
+		EF9C532F21111AD900C7563A /* HtmlTermsOfService.html in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52EF21111AD800C7563A /* HtmlTermsOfService.html */; };
+		EF9C533021111AD900C7563A /* JMMDisputeCancelInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F021111AD800C7563A /* JMMDisputeCancelInsert.php */; };
+		EF9C533121111AD900C7563A /* transactionLog20180731.log in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F121111AD800C7563A /* transactionLog20180731.log */; };
+		EF9C533221111AD900C7563A /* JMMUserAccountValidate.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F221111AD800C7563A /* JMMUserAccountValidate.php */; };
+		EF9C533321111AD900C7563A /* JMMReceiptDisputeRatingGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F321111AD800C7563A /* JMMReceiptDisputeRatingGet.php */; };
+		EF9C533421111AD900C7563A /* JMMMasterGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F421111AD800C7563A /* JMMMasterGet.php */; };
+		EF9C533521111AD900C7563A /* JMMDisputeGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F521111AD800C7563A /* JMMDisputeGetList.php */; };
+		EF9C533621111AD900C7563A /* JMMPushSyncUpdateByDeviceToken.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F621111AD800C7563A /* JMMPushSyncUpdateByDeviceToken.php */; };
+		EF9C533721111AD900C7563A /* downloadImage.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F721111AD800C7563A /* downloadImage.php */; };
+		EF9C533821111AD900C7563A /* HtmlContactUs.html in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F821111AD800C7563A /* HtmlContactUs.html */; };
+		EF9C533921111AD900C7563A /* dbConnect.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52F921111AD800C7563A /* dbConnect.php */; };
+		EF9C533A21111AD900C7563A /* HtmlEmailTemplateForgotPassword.html in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FA21111AD800C7563A /* HtmlEmailTemplateForgotPassword.html */; };
+		EF9C533B21111AD900C7563A /* JMMRewardPointSpentUsedMoreGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FB21111AD800C7563A /* JMMRewardPointSpentUsedMoreGetList.php */; };
+		EF9C533C21111AD900C7563A /* JMMLedStatusGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FC21111AD800C7563A /* JMMLedStatusGet.php */; };
+		EF9C533D21111AD900C7563A /* JMMReceiptUpdate.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FD21111AD800C7563A /* JMMReceiptUpdate.php */; };
+		EF9C533E21111AD900C7563A /* transactionLog20180728.log in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FE21111AD800C7563A /* transactionLog20180728.log */; };
+		EF9C533F21111AD900C7563A /* JMMRecommendShopInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C52FF21111AD800C7563A /* JMMRecommendShopInsert.php */; };
+		EF9C534021111AD900C7563A /* JMMPromotionGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530021111AD800C7563A /* JMMPromotionGetList.php */; };
+		EF9C534121111AD900C7563A /* JMMDisputeInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530121111AD800C7563A /* JMMDisputeInsert.php */; };
+		EF9C534221111AD900C7563A /* JMMUserAccountForgotPasswordInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530221111AD800C7563A /* JMMUserAccountForgotPasswordInsert.php */; };
+		EF9C534321111AD900C7563A /* JMMRewardRedemptionWithBranchIDGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530321111AD800C7563A /* JMMRewardRedemptionWithBranchIDGetList.php */; };
+		EF9C534421111AD900C7563A /* JMMCommentInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530421111AD800C7563A /* JMMCommentInsert.php */; };
+		EF9C534521111AD900C7563A /* JMMLedStatusUpdate.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530521111AD800C7563A /* JMMLedStatusUpdate.php */; };
+		EF9C534621111AD900C7563A /* JMMRewardPointGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530621111AD800C7563A /* JMMRewardPointGet.php */; };
+		EF9C534721111AD900C7563A /* OmiseCheckOut.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530721111AD800C7563A /* OmiseCheckOut.php */; };
+		EF9C534821111AD900C7563A /* transactionLog20180729.log in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530821111AD800C7563A /* transactionLog20180729.log */; };
+		EF9C534921111AD900C7563A /* urlinsertprefix.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530921111AD800C7563A /* urlinsertprefix.php */; };
+		EF9C534A21111AD900C7563A /* urlupdateprefix.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530A21111AD800C7563A /* urlupdateprefix.php */; };
+		EF9C534B21111AD900C7563A /* JMMPromoCodeInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530B21111AD800C7563A /* JMMPromoCodeInsert.php */; };
+		EF9C534C21111AD900C7563A /* JMMReceiptMaxModifiedDateGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530C21111AD800C7563A /* JMMReceiptMaxModifiedDateGetList.php */; };
+		EF9C534D21111AD900C7563A /* JMMMenuGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530D21111AD800C7563A /* JMMMenuGetList.php */; };
+		EF9C534E21111AD900C7563A /* JMMRatingInsert.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530E21111AD800C7563A /* JMMRatingInsert.php */; };
+		EF9C534F21111AD900C7563A /* JMMCustomerTableGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C530F21111AD800C7563A /* JMMCustomerTableGetList.php */; };
+		EF9C535021111AD900C7563A /* JMMRewardPointSpentMoreGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531021111AD800C7563A /* JMMRewardPointSpentMoreGetList.php */; };
+		EF9C535121111AD900C7563A /* JMMUserAccountGet.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531121111AD800C7563A /* JMMUserAccountGet.php */; };
+		EF9C535221111AD900C7563A /* modelm.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531221111AD800C7563A /* modelm.php */; };
+		EF9C535321111AD900C7563A /* HtmlPrivacyPolicy.html in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531321111AD800C7563A /* HtmlPrivacyPolicy.html */; };
+		EF9C535421111AD900C7563A /* JMMRatingUpdate.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531421111AD800C7563A /* JMMRatingUpdate.php */; };
+		EF9C535521111AD900C7563A /* JMMPushSyncUpdateTimeSynced.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531521111AD800C7563A /* JMMPushSyncUpdateTimeSynced.php */; };
+		EF9C535621111AD900C7563A /* modelh.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531621111AD800C7563A /* modelh.php */; };
+		EF9C535721111AD900C7563A /* JMMDisputeReasonGetList.php in Resources */ = {isa = PBXBuildFile; fileRef = EF9C531721111AD800C7563A /* JMMDisputeReasonGetList.php */; };
+		EF9C535921111B0D00C7563A /* demo_jummum.sql in Resources */ = {isa = PBXBuildFile; fileRef = EF9C535821111B0D00C7563A /* demo_jummum.sql */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +122,71 @@
 		EF9C52C521111ABC00C7563A /* DemoJummumUrlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoJummumUrlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF9C52C921111ABC00C7563A /* DemoJummumUrlUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoJummumUrlUITests.m; sourceTree = "<group>"; };
 		EF9C52CB21111ABC00C7563A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF9C52D821111AD800C7563A /* JMMUserAccountUpdate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMUserAccountUpdate.php; sourceTree = "<group>"; };
+		EF9C52D921111AD800C7563A /* JMMReceiptDisputeRatingAllAfterReceiptGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptDisputeRatingAllAfterReceiptGet.php; sourceTree = "<group>"; };
+		EF9C52DA21111AD800C7563A /* JMMWriteLog.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMWriteLog.php; sourceTree = "<group>"; };
+		EF9C52DB21111AD800C7563A /* JMMRewardPointSpentExpiredGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentExpiredGetList.php; sourceTree = "<group>"; };
+		EF9C52DC21111AD800C7563A /* JMMMenuNoteGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMMenuNoteGetList.php; sourceTree = "<group>"; };
+		EF9C52DD21111AD800C7563A /* JMMReceiptGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptGet.php; sourceTree = "<group>"; };
+		EF9C52DE21111AD800C7563A /* JMMUserAccountInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMUserAccountInsert.php; sourceTree = "<group>"; };
+		EF9C52DF21111AD800C7563A /* JMMHotDealWithBranchIDGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMHotDealWithBranchIDGetList.php; sourceTree = "<group>"; };
+		EF9C52E021111AD800C7563A /* JMMBranchGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMBranchGetList.php; sourceTree = "<group>"; };
+		EF9C52E121111AD800C7563A /* errorLog20180731.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = errorLog20180731.log; sourceTree = "<group>"; };
+		EF9C52E221111AD800C7563A /* JMMOpeningTimeGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMOpeningTimeGet.php; sourceTree = "<group>"; };
+		EF9C52E321111AD800C7563A /* JMMReceiptSummaryGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptSummaryGetList.php; sourceTree = "<group>"; };
+		EF9C52E421111AD800C7563A /* JMMRewardPointSpentGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentGetList.php; sourceTree = "<group>"; };
+		EF9C52E521111AD800C7563A /* JMMRewardPointInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointInsert.php; sourceTree = "<group>"; };
+		EF9C52E621111AD800C7563A /* JMMPushReminder.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPushReminder.php; sourceTree = "<group>"; };
+		EF9C52E721111AD800C7563A /* JMMLogInUserAccountInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMLogInUserAccountInsert.php; sourceTree = "<group>"; };
+		EF9C52E821111AD800C7563A /* ck.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ck.pem; sourceTree = "<group>"; };
+		EF9C52E921111AD800C7563A /* JMMRewardPointSpentExpiredMoreGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentExpiredMoreGetList.php; sourceTree = "<group>"; };
+		EF9C52EA21111AD800C7563A /* urlinsertlistprefix.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = urlinsertlistprefix.php; sourceTree = "<group>"; };
+		EF9C52EB21111AD800C7563A /* transactionLog20180730.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = transactionLog20180730.log; sourceTree = "<group>"; };
+		EF9C52EC21111AD800C7563A /* JMMRewardPointSpentUsedGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentUsedGetList.php; sourceTree = "<group>"; };
+		EF9C52ED21111AD800C7563A /* JMMPushSyncSync.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPushSyncSync.php; sourceTree = "<group>"; };
+		EF9C52EE21111AD800C7563A /* JMMHotDealGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMHotDealGetList.php; sourceTree = "<group>"; };
+		EF9C52EF21111AD800C7563A /* HtmlTermsOfService.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlTermsOfService.html; sourceTree = "<group>"; };
+		EF9C52F021111AD800C7563A /* JMMDisputeCancelInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMDisputeCancelInsert.php; sourceTree = "<group>"; };
+		EF9C52F121111AD800C7563A /* transactionLog20180731.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = transactionLog20180731.log; sourceTree = "<group>"; };
+		EF9C52F221111AD800C7563A /* JMMUserAccountValidate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMUserAccountValidate.php; sourceTree = "<group>"; };
+		EF9C52F321111AD800C7563A /* JMMReceiptDisputeRatingGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptDisputeRatingGet.php; sourceTree = "<group>"; };
+		EF9C52F421111AD800C7563A /* JMMMasterGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMMasterGet.php; sourceTree = "<group>"; };
+		EF9C52F521111AD800C7563A /* JMMDisputeGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMDisputeGetList.php; sourceTree = "<group>"; };
+		EF9C52F621111AD800C7563A /* JMMPushSyncUpdateByDeviceToken.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPushSyncUpdateByDeviceToken.php; sourceTree = "<group>"; };
+		EF9C52F721111AD800C7563A /* downloadImage.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = downloadImage.php; sourceTree = "<group>"; };
+		EF9C52F821111AD800C7563A /* HtmlContactUs.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlContactUs.html; sourceTree = "<group>"; };
+		EF9C52F921111AD800C7563A /* dbConnect.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = dbConnect.php; sourceTree = "<group>"; };
+		EF9C52FA21111AD800C7563A /* HtmlEmailTemplateForgotPassword.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlEmailTemplateForgotPassword.html; sourceTree = "<group>"; };
+		EF9C52FB21111AD800C7563A /* JMMRewardPointSpentUsedMoreGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentUsedMoreGetList.php; sourceTree = "<group>"; };
+		EF9C52FC21111AD800C7563A /* JMMLedStatusGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMLedStatusGet.php; sourceTree = "<group>"; };
+		EF9C52FD21111AD800C7563A /* JMMReceiptUpdate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptUpdate.php; sourceTree = "<group>"; };
+		EF9C52FE21111AD800C7563A /* transactionLog20180728.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = transactionLog20180728.log; sourceTree = "<group>"; };
+		EF9C52FF21111AD800C7563A /* JMMRecommendShopInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRecommendShopInsert.php; sourceTree = "<group>"; };
+		EF9C530021111AD800C7563A /* JMMPromotionGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPromotionGetList.php; sourceTree = "<group>"; };
+		EF9C530121111AD800C7563A /* JMMDisputeInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMDisputeInsert.php; sourceTree = "<group>"; };
+		EF9C530221111AD800C7563A /* JMMUserAccountForgotPasswordInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMUserAccountForgotPasswordInsert.php; sourceTree = "<group>"; };
+		EF9C530321111AD800C7563A /* JMMRewardRedemptionWithBranchIDGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardRedemptionWithBranchIDGetList.php; sourceTree = "<group>"; };
+		EF9C530421111AD800C7563A /* JMMCommentInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMCommentInsert.php; sourceTree = "<group>"; };
+		EF9C530521111AD800C7563A /* JMMLedStatusUpdate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMLedStatusUpdate.php; sourceTree = "<group>"; };
+		EF9C530621111AD800C7563A /* JMMRewardPointGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointGet.php; sourceTree = "<group>"; };
+		EF9C530721111AD800C7563A /* OmiseCheckOut.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = OmiseCheckOut.php; sourceTree = "<group>"; };
+		EF9C530821111AD800C7563A /* transactionLog20180729.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = transactionLog20180729.log; sourceTree = "<group>"; };
+		EF9C530921111AD800C7563A /* urlinsertprefix.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = urlinsertprefix.php; sourceTree = "<group>"; };
+		EF9C530A21111AD800C7563A /* urlupdateprefix.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = urlupdateprefix.php; sourceTree = "<group>"; };
+		EF9C530B21111AD800C7563A /* JMMPromoCodeInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPromoCodeInsert.php; sourceTree = "<group>"; };
+		EF9C530C21111AD800C7563A /* JMMReceiptMaxModifiedDateGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMReceiptMaxModifiedDateGetList.php; sourceTree = "<group>"; };
+		EF9C530D21111AD800C7563A /* JMMMenuGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMMenuGetList.php; sourceTree = "<group>"; };
+		EF9C530E21111AD800C7563A /* JMMRatingInsert.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRatingInsert.php; sourceTree = "<group>"; };
+		EF9C530F21111AD800C7563A /* JMMCustomerTableGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMCustomerTableGetList.php; sourceTree = "<group>"; };
+		EF9C531021111AD800C7563A /* JMMRewardPointSpentMoreGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRewardPointSpentMoreGetList.php; sourceTree = "<group>"; };
+		EF9C531121111AD800C7563A /* JMMUserAccountGet.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMUserAccountGet.php; sourceTree = "<group>"; };
+		EF9C531221111AD800C7563A /* modelm.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = modelm.php; sourceTree = "<group>"; };
+		EF9C531321111AD800C7563A /* HtmlPrivacyPolicy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlPrivacyPolicy.html; sourceTree = "<group>"; };
+		EF9C531421111AD800C7563A /* JMMRatingUpdate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMRatingUpdate.php; sourceTree = "<group>"; };
+		EF9C531521111AD800C7563A /* JMMPushSyncUpdateTimeSynced.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMPushSyncUpdateTimeSynced.php; sourceTree = "<group>"; };
+		EF9C531621111AD800C7563A /* modelh.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = modelh.php; sourceTree = "<group>"; };
+		EF9C531721111AD800C7563A /* JMMDisputeReasonGetList.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = JMMDisputeReasonGetList.php; sourceTree = "<group>"; };
+		EF9C535821111B0D00C7563A /* demo_jummum.sql */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = demo_jummum.sql; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +217,7 @@
 		EF9C529321111ABA00C7563A = {
 			isa = PBXGroup;
 			children = (
+				EF9C52D721111AD800C7563A /* DemoUrl */,
 				EF9C529E21111ABA00C7563A /* DemoJummumUrl */,
 				EF9C52BD21111ABC00C7563A /* DemoJummumUrlTests */,
 				EF9C52C821111ABC00C7563A /* DemoJummumUrlUITests */,
@@ -140,6 +271,78 @@
 				EF9C52CB21111ABC00C7563A /* Info.plist */,
 			);
 			path = DemoJummumUrlUITests;
+			sourceTree = "<group>";
+		};
+		EF9C52D721111AD800C7563A /* DemoUrl */ = {
+			isa = PBXGroup;
+			children = (
+				EF9C535821111B0D00C7563A /* demo_jummum.sql */,
+				EF9C52D821111AD800C7563A /* JMMUserAccountUpdate.php */,
+				EF9C52D921111AD800C7563A /* JMMReceiptDisputeRatingAllAfterReceiptGet.php */,
+				EF9C52DA21111AD800C7563A /* JMMWriteLog.php */,
+				EF9C52DB21111AD800C7563A /* JMMRewardPointSpentExpiredGetList.php */,
+				EF9C52DC21111AD800C7563A /* JMMMenuNoteGetList.php */,
+				EF9C52DD21111AD800C7563A /* JMMReceiptGet.php */,
+				EF9C52DE21111AD800C7563A /* JMMUserAccountInsert.php */,
+				EF9C52DF21111AD800C7563A /* JMMHotDealWithBranchIDGetList.php */,
+				EF9C52E021111AD800C7563A /* JMMBranchGetList.php */,
+				EF9C52E121111AD800C7563A /* errorLog20180731.log */,
+				EF9C52E221111AD800C7563A /* JMMOpeningTimeGet.php */,
+				EF9C52E321111AD800C7563A /* JMMReceiptSummaryGetList.php */,
+				EF9C52E421111AD800C7563A /* JMMRewardPointSpentGetList.php */,
+				EF9C52E521111AD800C7563A /* JMMRewardPointInsert.php */,
+				EF9C52E621111AD800C7563A /* JMMPushReminder.php */,
+				EF9C52E721111AD800C7563A /* JMMLogInUserAccountInsert.php */,
+				EF9C52E821111AD800C7563A /* ck.pem */,
+				EF9C52E921111AD800C7563A /* JMMRewardPointSpentExpiredMoreGetList.php */,
+				EF9C52EA21111AD800C7563A /* urlinsertlistprefix.php */,
+				EF9C52EB21111AD800C7563A /* transactionLog20180730.log */,
+				EF9C52EC21111AD800C7563A /* JMMRewardPointSpentUsedGetList.php */,
+				EF9C52ED21111AD800C7563A /* JMMPushSyncSync.php */,
+				EF9C52EE21111AD800C7563A /* JMMHotDealGetList.php */,
+				EF9C52EF21111AD800C7563A /* HtmlTermsOfService.html */,
+				EF9C52F021111AD800C7563A /* JMMDisputeCancelInsert.php */,
+				EF9C52F121111AD800C7563A /* transactionLog20180731.log */,
+				EF9C52F221111AD800C7563A /* JMMUserAccountValidate.php */,
+				EF9C52F321111AD800C7563A /* JMMReceiptDisputeRatingGet.php */,
+				EF9C52F421111AD800C7563A /* JMMMasterGet.php */,
+				EF9C52F521111AD800C7563A /* JMMDisputeGetList.php */,
+				EF9C52F621111AD800C7563A /* JMMPushSyncUpdateByDeviceToken.php */,
+				EF9C52F721111AD800C7563A /* downloadImage.php */,
+				EF9C52F821111AD800C7563A /* HtmlContactUs.html */,
+				EF9C52F921111AD800C7563A /* dbConnect.php */,
+				EF9C52FA21111AD800C7563A /* HtmlEmailTemplateForgotPassword.html */,
+				EF9C52FB21111AD800C7563A /* JMMRewardPointSpentUsedMoreGetList.php */,
+				EF9C52FC21111AD800C7563A /* JMMLedStatusGet.php */,
+				EF9C52FD21111AD800C7563A /* JMMReceiptUpdate.php */,
+				EF9C52FE21111AD800C7563A /* transactionLog20180728.log */,
+				EF9C52FF21111AD800C7563A /* JMMRecommendShopInsert.php */,
+				EF9C530021111AD800C7563A /* JMMPromotionGetList.php */,
+				EF9C530121111AD800C7563A /* JMMDisputeInsert.php */,
+				EF9C530221111AD800C7563A /* JMMUserAccountForgotPasswordInsert.php */,
+				EF9C530321111AD800C7563A /* JMMRewardRedemptionWithBranchIDGetList.php */,
+				EF9C530421111AD800C7563A /* JMMCommentInsert.php */,
+				EF9C530521111AD800C7563A /* JMMLedStatusUpdate.php */,
+				EF9C530621111AD800C7563A /* JMMRewardPointGet.php */,
+				EF9C530721111AD800C7563A /* OmiseCheckOut.php */,
+				EF9C530821111AD800C7563A /* transactionLog20180729.log */,
+				EF9C530921111AD800C7563A /* urlinsertprefix.php */,
+				EF9C530A21111AD800C7563A /* urlupdateprefix.php */,
+				EF9C530B21111AD800C7563A /* JMMPromoCodeInsert.php */,
+				EF9C530C21111AD800C7563A /* JMMReceiptMaxModifiedDateGetList.php */,
+				EF9C530D21111AD800C7563A /* JMMMenuGetList.php */,
+				EF9C530E21111AD800C7563A /* JMMRatingInsert.php */,
+				EF9C530F21111AD800C7563A /* JMMCustomerTableGetList.php */,
+				EF9C531021111AD800C7563A /* JMMRewardPointSpentMoreGetList.php */,
+				EF9C531121111AD800C7563A /* JMMUserAccountGet.php */,
+				EF9C531221111AD800C7563A /* modelm.php */,
+				EF9C531321111AD800C7563A /* HtmlPrivacyPolicy.html */,
+				EF9C531421111AD800C7563A /* JMMRatingUpdate.php */,
+				EF9C531521111AD800C7563A /* JMMPushSyncUpdateTimeSynced.php */,
+				EF9C531621111AD800C7563A /* modelh.php */,
+				EF9C531721111AD800C7563A /* JMMDisputeReasonGetList.php */,
+			);
+			path = DemoUrl;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,9 +448,74 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF9C533521111AD900C7563A /* JMMDisputeGetList.php in Resources */,
+				EF9C532821111AD900C7563A /* ck.pem in Resources */,
+				EF9C533921111AD900C7563A /* dbConnect.php in Resources */,
+				EF9C534121111AD900C7563A /* JMMDisputeInsert.php in Resources */,
+				EF9C534921111AD900C7563A /* urlinsertprefix.php in Resources */,
+				EF9C532021111AD900C7563A /* JMMBranchGetList.php in Resources */,
+				EF9C534021111AD900C7563A /* JMMPromotionGetList.php in Resources */,
+				EF9C532C21111AD900C7563A /* JMMRewardPointSpentUsedGetList.php in Resources */,
 				EF9C52B221111ABC00C7563A /* LaunchScreen.storyboard in Resources */,
+				EF9C532E21111AD900C7563A /* JMMHotDealGetList.php in Resources */,
+				EF9C531821111AD900C7563A /* JMMUserAccountUpdate.php in Resources */,
+				EF9C534C21111AD900C7563A /* JMMReceiptMaxModifiedDateGetList.php in Resources */,
+				EF9C533321111AD900C7563A /* JMMReceiptDisputeRatingGet.php in Resources */,
+				EF9C534721111AD900C7563A /* OmiseCheckOut.php in Resources */,
+				EF9C532521111AD900C7563A /* JMMRewardPointInsert.php in Resources */,
+				EF9C534E21111AD900C7563A /* JMMRatingInsert.php in Resources */,
+				EF9C535221111AD900C7563A /* modelm.php in Resources */,
+				EF9C533A21111AD900C7563A /* HtmlEmailTemplateForgotPassword.html in Resources */,
+				EF9C532121111AD900C7563A /* errorLog20180731.log in Resources */,
+				EF9C531921111AD900C7563A /* JMMReceiptDisputeRatingAllAfterReceiptGet.php in Resources */,
+				EF9C532A21111AD900C7563A /* urlinsertlistprefix.php in Resources */,
+				EF9C533721111AD900C7563A /* downloadImage.php in Resources */,
+				EF9C534321111AD900C7563A /* JMMRewardRedemptionWithBranchIDGetList.php in Resources */,
+				EF9C534D21111AD900C7563A /* JMMMenuGetList.php in Resources */,
+				EF9C532721111AD900C7563A /* JMMLogInUserAccountInsert.php in Resources */,
+				EF9C531E21111AD900C7563A /* JMMUserAccountInsert.php in Resources */,
+				EF9C531D21111AD900C7563A /* JMMReceiptGet.php in Resources */,
+				EF9C533E21111AD900C7563A /* transactionLog20180728.log in Resources */,
+				EF9C534421111AD900C7563A /* JMMCommentInsert.php in Resources */,
+				EF9C532D21111AD900C7563A /* JMMPushSyncSync.php in Resources */,
 				EF9C52AF21111ABC00C7563A /* Assets.xcassets in Resources */,
+				EF9C535121111AD900C7563A /* JMMUserAccountGet.php in Resources */,
+				EF9C533821111AD900C7563A /* HtmlContactUs.html in Resources */,
+				EF9C531F21111AD900C7563A /* JMMHotDealWithBranchIDGetList.php in Resources */,
+				EF9C531A21111AD900C7563A /* JMMWriteLog.php in Resources */,
+				EF9C532221111AD900C7563A /* JMMOpeningTimeGet.php in Resources */,
+				EF9C534521111AD900C7563A /* JMMLedStatusUpdate.php in Resources */,
+				EF9C534821111AD900C7563A /* transactionLog20180729.log in Resources */,
+				EF9C532921111AD900C7563A /* JMMRewardPointSpentExpiredMoreGetList.php in Resources */,
+				EF9C532B21111AD900C7563A /* transactionLog20180730.log in Resources */,
+				EF9C534621111AD900C7563A /* JMMRewardPointGet.php in Resources */,
+				EF9C533B21111AD900C7563A /* JMMRewardPointSpentUsedMoreGetList.php in Resources */,
+				EF9C533221111AD900C7563A /* JMMUserAccountValidate.php in Resources */,
+				EF9C533421111AD900C7563A /* JMMMasterGet.php in Resources */,
+				EF9C532321111AD900C7563A /* JMMReceiptSummaryGetList.php in Resources */,
+				EF9C535721111AD900C7563A /* JMMDisputeReasonGetList.php in Resources */,
+				EF9C534221111AD900C7563A /* JMMUserAccountForgotPasswordInsert.php in Resources */,
+				EF9C533C21111AD900C7563A /* JMMLedStatusGet.php in Resources */,
 				EF9C52AD21111ABA00C7563A /* Main.storyboard in Resources */,
+				EF9C532421111AD900C7563A /* JMMRewardPointSpentGetList.php in Resources */,
+				EF9C533D21111AD900C7563A /* JMMReceiptUpdate.php in Resources */,
+				EF9C535021111AD900C7563A /* JMMRewardPointSpentMoreGetList.php in Resources */,
+				EF9C535921111B0D00C7563A /* demo_jummum.sql in Resources */,
+				EF9C533F21111AD900C7563A /* JMMRecommendShopInsert.php in Resources */,
+				EF9C531B21111AD900C7563A /* JMMRewardPointSpentExpiredGetList.php in Resources */,
+				EF9C535421111AD900C7563A /* JMMRatingUpdate.php in Resources */,
+				EF9C534F21111AD900C7563A /* JMMCustomerTableGetList.php in Resources */,
+				EF9C532F21111AD900C7563A /* HtmlTermsOfService.html in Resources */,
+				EF9C533021111AD900C7563A /* JMMDisputeCancelInsert.php in Resources */,
+				EF9C535621111AD900C7563A /* modelh.php in Resources */,
+				EF9C534A21111AD900C7563A /* urlupdateprefix.php in Resources */,
+				EF9C534B21111AD900C7563A /* JMMPromoCodeInsert.php in Resources */,
+				EF9C535521111AD900C7563A /* JMMPushSyncUpdateTimeSynced.php in Resources */,
+				EF9C535321111AD900C7563A /* HtmlPrivacyPolicy.html in Resources */,
+				EF9C533621111AD900C7563A /* JMMPushSyncUpdateByDeviceToken.php in Resources */,
+				EF9C531C21111AD900C7563A /* JMMMenuNoteGetList.php in Resources */,
+				EF9C532621111AD900C7563A /* JMMPushReminder.php in Resources */,
+				EF9C533121111AD900C7563A /* transactionLog20180731.log in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
