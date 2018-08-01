@@ -1,0 +1,55 @@
+2018-07-28T11:53:28+07:00 file: JMMMenuGetList.php, user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T11:53:28+07:00 query success, sql: select * from DEMO_JUMMUM_OM_MAMARIN7_2.Setting where keyName = 'customerOrderStatus', modified user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 sql = select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T11:53:28+07:00 executeMultiQuery: select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T11:53:28+07:00 file: JMMMenuNoteGetList.php, user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T11:53:28+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T11:53:28+07:00 executeMultiQuery: select * from .menuNote where 1;
+2018-07-28T12:01:55+07:00 file: JMMMenuGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:01:55+07:00 query success, sql: select * from DEMO_JUMMUM_OM_MAMARIN7_2.Setting where keyName = 'customerOrderStatus', modified user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 sql = select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:01:55+07:00 executeMultiQuery: select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:01:55+07:00 file: JMMMenuNoteGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:01:55+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:01:55+07:00 executeMultiQuery: select * from .menuNote where 1;
+2018-07-28T12:06:47+07:00 file: JMMMenuGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:06:47+07:00 query success, sql: select * from DEMO_JUMMUM_OM_MAMARIN7_2.Setting where keyName = 'customerOrderStatus', modified user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 sql = select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:06:47+07:00 executeMultiQuery: select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:06:47+07:00 file: JMMMenuNoteGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:06:47+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:06:47+07:00 executeMultiQuery: select 1, menuNote.* from menuNote where 1 union select 2, menuNote.* from menuNote where 1 union select 3, menuNote.* from menuNote where 1 union select 4, menuNote.* from menuNote where 1 union select 5, menuNote.* from menuNote where 1;
+2018-07-28T12:11:33+07:00 file: JMMMenuGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:11:33+07:00 query success, sql: select * from DEMO_JUMMUM_OM_MAMARIN7_2.Setting where keyName = 'customerOrderStatus', modified user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 sql = select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:11:33+07:00 executeMultiQuery: select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T12:11:33+07:00 file: JMMMenuNoteGetList.php, user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T12:11:33+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T12:11:33+07:00 executeMultiQuery: select * from .menuNote where 1;
+2018-07-28T14:55:34+07:00 file: JMMMenuGetList.php, user: jinglejill@hotmail.com
+2018-07-28T14:55:34+07:00 Param=Value: dbNameBranch=DEMO_JUMMUM_OM_MAMARIN7_2&modifiedDeviceToken=simulator&modifiedUser=jinglejill@hotmail.com&dbName=DEMO_JUMMUM&
+2018-07-28T14:55:34+07:00 query success, sql: select * from DEMO_JUMMUM_OM_MAMARIN7_2.Setting where keyName = 'customerOrderStatus', modified user: jinglejill@hotmail.com
+2018-07-28T14:55:34+07:00 query success, sql: select * from DEMO_JUMMUM_OM.branch where dbName = 'DEMO_JUMMUM_OM_MAMARIN7_2', modified user: jinglejill@hotmail.com
+2018-07-28T14:55:34+07:00 query: selected row count = 0, sql: select * from DEMO_JUMMUM_OM.branch where branchID = '8', modified user: jinglejill@hotmail.com
+2018-07-28T14:55:34+07:00 sql = select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
+2018-07-28T14:55:34+07:00 executeMultiQuery: select 1 as Text;select * from .menu where Status = 1;select * from .menuType where Status = 1;select * from .menuNote where 0;select * from .note where Status = 1;select * from .notetype where Status = 1;select * from .subMenuType where Status = 1;select * from .specialPriceProgram where date_format(now(),'%Y-%m-%d') between date_format(startDate,'%Y-%m-%d') and date_format(endDate,'%Y-%m-%d');
