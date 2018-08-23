@@ -1,11 +1,8 @@
-new feature
-improvement
-bug fixes
+<?php
+    $result = array();
+    $result[] = array("version" => "1.5.2");
+    $lookup = array("resultCount" => 1, "results" => $result);
+    
+    echo json_encode($lookup);
+?>
 
-
-
-noti when status change
-remark for receipt
-order food when shop allow for self-ordering
-
-minor bug fixes

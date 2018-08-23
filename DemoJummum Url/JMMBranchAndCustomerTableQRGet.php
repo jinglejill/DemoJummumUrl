@@ -23,7 +23,6 @@
     $sql = "select aes_decrypt(unhex('$decryptedMessage'),'$encryptKey') as message;";
     $selectedRow = getSelectedRow($sql);
     $message = $selectedRow[0]["message"];
-    writeToLog("decryptMessage: " . $message);
     $arrMessage = explode(",", $message);
     if(sizeof($arrMessage) == 2)
     {
@@ -69,9 +68,9 @@
     
     
     /* execute multi query */
-    $jsonEncode = executeMultiQuery($sql);
-    echo $jsonEncode;
-
+    $jsonEncode = executeMultiQueryArray($sql);
+    $response = array('success' => true, 'data' => $jsonEncode, 'error' => null, 'status' => 1);
+    echo json_encode($response);
 
     
     // Close connections
