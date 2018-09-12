@@ -1,4 +1,8 @@
 <?php
+    header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
+    header("Pragma: no-cache"); //HTTP 1.0
+    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
+    
     include_once("dbConnect.php");
     setConnectionValue("");
     writeToLog("file: " . basename(__FILE__) . ", user: " . $_POST["modifiedUser"]);
@@ -55,10 +59,25 @@
     }
     else
     {
-        $imageFileName = "./Image/NoImage.jpg";
+        switch($type)
+        {
+                case 1:
+                case 2:
+            {
+                $imageFileName = "./$dbName/Image/NoImage.jpg";
+            }
+                break;
+                case 3:
+                case 4:
+            {
+                $imageFileName = "./Image/NoImage.jpg";
+            }
+                break;
+            
+        }
+        
     }
     $filenameIn  = $imageFileName;
-    
     
     
     // Check if file already exists

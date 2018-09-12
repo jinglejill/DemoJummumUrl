@@ -11,8 +11,7 @@
         $searchText = $_POST["searchText"];
         $name = $_POST["name"];
     }
-    
-    
+
     
     // Check connection
     if (mysqli_connect_errno())
