@@ -221,7 +221,7 @@
         $sqlAll .= "select * from Receipt where 0;";
         
     }
-    
+//    echo $sqlAll;
 
     
 

@@ -14,6 +14,8 @@
     
     
     
+    
+    
     // Check connection
     if (mysqli_connect_errno())
     {
@@ -35,7 +37,7 @@
     }
     else
     {
-        $sqlCustomerTable = "select * from CustomerTable where 0";
+        $sqlCustomerTable = "select * from Branch where 0";
     }
     $sql .= $sqlCustomerTable . ";";
     
